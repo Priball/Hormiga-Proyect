@@ -53,3 +53,9 @@ Soluciones, meta y resultado final:
 
 Leyes sagradas que no se deben romper: No cambiar el protocolo.Se le podrán realizar mejoras a la app, pero nunca nunca nunca se debe cambiar el protocolo, para garantizar que sea el libre mercado el que le de valor a la app y por ende a sus token H. 
 
+
+![1](https://user-images.githubusercontent.com/87838325/166333717-f02725de-6938-4181-92b8-7a3233c29c47.png)
+
+
+![hormiga concept](https://user-images.githubusercontent.com/87838325/166333727-5d04ade2-e132-489e-b46d-ee4625b85440.png)
+
