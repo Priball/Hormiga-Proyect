@@ -6,16 +6,21 @@ Proyecto Hormiga
  
 El proyecto consiste en la creación de una aplicación “Market-place” que interconecta a los usuarios para poder, comerciar, enviar, transportar o recibir bienes tangibles de manera segura de la manera más económica, y eficaz, ofreciendo un sin fin de beneficios , oportunidades a precios de libre mercado.
 Participantes del proceso: Emisor, receptor y transportador.
+
 *Cuentas de usuarios: 
 Quien desee utilizar la DApp, deberá estar registrado y logueado.
  Tanto para recibir como para enviar o transportar, cada usuario tendrá un numero único de ID que podrá utilizar para proteger su identidad y facilitar el uso en la plataforma.
  Los usuarios de la misma recibirán un puntaje dependiendo de su comportamiento, lo cual los posicionará  en los listados. 
+
 *Protocolo de seguridad y respaldo: 
 Cada usuario que opte por usar la Dapp para transportar un bien, deberá tener en su cuenta, un dinero (token hormiga ) para usar de colateral equivalente al valor declarado del bien a transportar, de esta manera si el paquete no llegase a tiempo, se extraviara, o se dañara en el camino, el receptor podría ejecutar el colateral para recuperar el dinero del bien que no llego a recibir. Dejando al usuario la libertad de darle el valor que desee a los bienes, aunque no se trate del valor real de mercado.
+
 Por ejemplo: Si el emisor desea enviar un lingote de oro cuyo valor fuese de  u$d 100.000,00.-  y desea declarar el valor u$d 10.00 .La cláusula de seguro que liquidaría el colateral en caso de pérdida, seria por 10.00 u$d. 
 Mientras que por otro lado, si un usuario enviara un par de zapatillas con un valor de u$d 10.00,  pero desea declarar un valor de u$d 100.000.-  La cláusula liquidaría tal monto.
+
 Este protocolo garantiza la seguridad porque incentiva a la responsabilidad y a la honestidad, ya que se transportarían bienes ajenos como si fueran propios, sabiendo que como transportadores cobraríamos la tarifa establecida o aceptada por nosotros mismos, la cual apela a la responsabilidad y a la elección del transportista el asumir la misma al momento de decidir participar de la operación y si concretáramos la entrega perderíamos el dinero correspondiente al valor declarado.
 Por otro lado, para evitar ser estafado por el emisor , todo aquel que envíe un item deberá  contar con un colateral en su cuenta que será descongelado ni bien la operación se concluya, esto ultimo se realiza para evitar estafas de parte de emisores que podrían enviar bienes sin valor,  con el fin de estafar al transportista  tras desaparecerse.
+
 *Sistema de reputación:
 Luego de cada intercambio la DApp otorga la posibilidad de puntuar y hasta comentar sobre el funcionar de cada una de las partes. Posicionando de mejor manera a los usuarios con mejor desempeño.
 
