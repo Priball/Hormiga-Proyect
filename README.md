@@ -68,5 +68,8 @@ Soluciones, meta y resultado final:
 ![hormiga concept](https://user-images.githubusercontent.com/87838325/166344125-4634107a-7706-4124-9b88-b9390cc88f7d.png)
 ![hormiga covid](https://user-images.githubusercontent.com/87838325/166344127-2bc4f013-4d9b-4c92-979e-4c86c5cf5fa6.png)
 
- 
+
+
+ ![fondo](https://user-images.githubusercontent.com/87838325/166578524-4e895f85-e610-4345-812a-ee0b335c4ebc.png)
+
              Mas claro no se puede ser, pero esta DApp puede salvar al mundo.
