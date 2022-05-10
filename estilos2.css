@@ -4,7 +4,7 @@
      box-sizing: border-box;
  }
 body {
-    background-image: url("img/fondo.jpg");
+    background-image: url("https://user-images.githubusercontent.com/87838325/166578524-4e895f85-e610-4345-812a-ee0b335c4ebc.png");
 }
  .form-register {
      width:33% ;
@@ -62,6 +62,3 @@ line-height: 40px;
     color: white;
     margin: 16px 0;
     font-size: 16;
-
-
-}
