@@ -34,7 +34,9 @@ La DApp no funciona con dinero fiat , sino con tokens RC20 , con suministro tota
 
 ![box blanco y negro](https://user-images.githubusercontent.com/87838325/167523327-f80df994-45d5-4118-ba88-3bb645d26108.png)
 
+![hormiga](https://user-images.githubusercontent.com/87838325/167523764-fd304960-5cca-4c51-b1a3-babf5354abd8.png)
 
+![hormiga dorada](https://user-images.githubusercontent.com/87838325/167523776-654fb7a4-d9c4-4523-a21d-6e01c8c18e83.png)
 
 
 
