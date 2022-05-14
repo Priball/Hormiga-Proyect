@@ -1,16 +1,16 @@
 import {createTheme } from '@mui/material';
-import { deepOrange } from '@mui/material/colors';
+import { grey, red } from '@mui/material/colors';
 
 export const theme = createTheme({
     palette: {
         primary: {
-          main: deepOrange[600],
+          main: red[500],
         },
         secondary: {
-          main: '#BF360C',
+          main: red[700],
         },
         hGrey: {
-          main: deepOrange[500],
+          main: grey[50],
         }
       },
 });

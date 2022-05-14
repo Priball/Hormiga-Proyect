@@ -1,6 +1,6 @@
 import { styled, alpha } from '@mui/material/styles';
 import { AppBar, Badge, Box, IconButton, InputBase,  Toolbar, Typography } from "@mui/material";
-import {  Mail, AccountCircle, Notifications, Menu, Search } from "@mui/icons-material";
+import { Mail, AccountCircle, Notifications, Menu, Search } from "@mui/icons-material";
 
 import React from "react";
 
@@ -11,9 +11,9 @@ const StyledToolbar = styled(Toolbar)({
 
 const SearchWrapper = styled('div')(({theme}) => ({
     position: 'relative',
-    backgroundColor: alpha(theme.palette.common.white, 0.15),
+    backgroundColor: alpha(theme.palette.common.white, 0.25),
     '&:hover': {
-        backgroundColor: alpha(theme.palette.common.white, 0.25),
+        backgroundColor: alpha(theme.palette.common.white, 0.35),
     },
     padding:"30 10px",
     borderRadius: theme.shape.borderRadius,
@@ -33,13 +33,17 @@ const SearchIconWrapper = styled('div')(({ theme }) => ({
   }));
 
   const StyledInputBase = styled(InputBase)(({ theme }) => ({
-    color: '#fff',
-      padding: "10px",
-      // vertical padding + font size from searchIcon
-     margin: "20px",
-     paddingLeft:'20px',
-     
-      width: '100%',
+    color: 'inherit',
+    '& .MuiInputBase-input': {
+        padding: theme.spacing(1, 1, 1, 0),
+        // vertical padding + font size from searchIcon
+        paddingLeft: `calc(1em + ${theme.spacing(4)})`,
+        transition: theme.transitions.create('width'),
+        width: '100%',
+        
+    
+    
+  },display:"block"
  
     
   }));
@@ -52,7 +56,7 @@ const Navbar = () => {
     return(
         <Box sx={{ flexGrow: 1 }}>
             <AppBar position="static">
-                <Toolbar >
+                <StyledToolbar variant="regular">
                     <IconButton
                         size="large"
                         edge="start"
@@ -67,7 +71,11 @@ const Navbar = () => {
                         variant="h6"
                         noWrap
                         component="div"
-                        sx={{ display: { xs: 'none', sm: 'block' } }}
+                        root={
+                           { color: "secondary"}
+                        }
+                        
+                        sx={{color: "secondary", display: { xs: 'none', sm: 'block' },  }}
                     >
                         Hormiga
                     </Typography>
@@ -77,7 +85,7 @@ const Navbar = () => {
                             <Search />
                         </SearchIconWrapper>
                         
-                        <InputBase placeholder="buscar..." sx={{paddingLeft:"40px", color:"white"}} />
+                        <StyledInputBase placeholder="buscar..."  />
                     </SearchWrapper>
                     <Icons>
                         
@@ -85,23 +93,23 @@ const Navbar = () => {
                     </Icons>
                     <Box sx={{ flexGrow: 1 }} />
                     <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
-                        <IconButton color="inherit">
+                        <IconButton color="hGrey">
                             <Badge badgeContent={4} color="error">
                                 <Mail  />
                             </Badge>
                         </IconButton>
-                        <IconButton color="inherit">
+                        <IconButton color="hGrey">
                             <Badge badgeContent={2} color="error">
                                 <Notifications />
                             </Badge>
                         </IconButton>
-                        <IconButton color="inherit">
+                        <IconButton color="hGrey">
                             
                                 <AccountCircle />
                             
                         </IconButton>
                     </Box>
-                </Toolbar>
+                </StyledToolbar>
             </AppBar>
         </Box >
     );
