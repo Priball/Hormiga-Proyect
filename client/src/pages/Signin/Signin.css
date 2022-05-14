@@ -1,0 +1,9 @@
+.signin-container{
+    border: 1px ;
+    border-color: blueviolet;
+    border-style: dashed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
