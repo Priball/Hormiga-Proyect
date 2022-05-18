@@ -65,6 +65,7 @@ Soluciones, meta y resultado final:
 •	Se baja el costo de productos debido al menor consumo de energía, por ende a gran escala la DApp contribuye a bajar la huella de carbono mientras crea oportunidades laborales para cada individuo del planeta que desee usarla.
 •	Se disminuirían los cuellos de botella creados por el transporte centralizado, y por lo que bajarían los contagios de enfermedades.
 
+![fondopagehormiga](https://user-images.githubusercontent.com/87838325/169148067-0f497543-034b-44fa-90ad-90a8ac02854d.png)
 
 
            
