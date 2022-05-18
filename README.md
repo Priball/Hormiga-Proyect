@@ -1,6 +1,6 @@
 White pape
+![black space gold](https://user-images.githubusercontent.com/87838325/169150475-949c33fd-8664-491b-b12e-64d1b54b456f.png)
 
-![black space gold](https://user-images.githubusercontent.com/87838325/169150203-12741861-a3ef-4065-97b8-415044c37b8f.png)
 
 Proyecto Hormiga
 
