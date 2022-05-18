@@ -66,6 +66,7 @@ Soluciones, meta y resultado final:
 •	Se disminuirían los cuellos de botella creados por el transporte centralizado, y por lo que bajarían los contagios de enfermedades.
 
 ![fondopagehormiga](https://user-images.githubusercontent.com/87838325/169148067-0f497543-034b-44fa-90ad-90a8ac02854d.png)
+![fondopagehormiga](https://user-images.githubusercontent.com/87838325/169149506-3a9f9268-31a5-47fe-ad5d-266ccd290476.png)
 
 
            
@@ -75,5 +76,6 @@ Soluciones, meta y resultado final:
 
 
  ![fondo](https://user-images.githubusercontent.com/87838325/166578524-4e895f85-e610-4345-812a-ee0b335c4ebc.png)
+![Uploading hormigafondo.png…]()
 
              Mas claro no se puede ser, pero esta DApp puede salvar al mundo.
