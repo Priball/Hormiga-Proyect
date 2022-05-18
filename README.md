@@ -1,5 +1,6 @@
-White paper
-![black space gold](https://user-images.githubusercontent.com/87838325/166344104-950aa79e-2cc0-4190-9458-b911c58ce41d.png)
+White pape
+
+![black space gold](https://user-images.githubusercontent.com/87838325/169150203-12741861-a3ef-4065-97b8-415044c37b8f.png)
 
 Proyecto Hormiga
 
@@ -65,7 +66,6 @@ Soluciones, meta y resultado final:
 •	Se baja el costo de productos debido al menor consumo de energía, por ende a gran escala la DApp contribuye a bajar la huella de carbono mientras crea oportunidades laborales para cada individuo del planeta que desee usarla.
 •	Se disminuirían los cuellos de botella creados por el transporte centralizado, y por lo que bajarían los contagios de enfermedades.
 
-![fondopagehormiga](https://user-images.githubusercontent.com/87838325/169148067-0f497543-034b-44fa-90ad-90a8ac02854d.png)
 ![fondopagehormiga](https://user-images.githubusercontent.com/87838325/169149506-3a9f9268-31a5-47fe-ad5d-266ccd290476.png)
 
 
