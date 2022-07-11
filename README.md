@@ -79,3 +79,5 @@ Soluciones, meta y resultado final:
 
 
              Mas claro no se puede ser, pero esta DApp puede salvar al mundo.
+             
+             Comunidad de Telegram https://t.me/ApHormiga 
